@@ -8,6 +8,7 @@ runtime: python27
 
 handlers:
   - url: .*
+    secure: always
     script: main.wsgi.application
 
 env_variables:
