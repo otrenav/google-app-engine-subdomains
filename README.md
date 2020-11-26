@@ -3,10 +3,12 @@
 
 ---
 
-# GAE Subdomains
+# Google App Engine (GAE) Subdomains
 
 - Omar Trejo
 - June, 2017
+
+Simple POC that shows how to use subdomains in Google App Engine.
 
 ---
 
