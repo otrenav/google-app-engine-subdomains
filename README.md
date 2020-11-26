@@ -7,7 +7,6 @@
 
 - Omar Trejo
 - June, 2017
-- For Vaibhav Bhutoria
 
 ---
 
